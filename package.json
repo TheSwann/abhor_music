@@ -1,0 +1,24 @@
+{
+  "name": "abhor_site",
+  "version": "1.0.0",
+  "description": "Band Site",
+  "main": "index.js",
+  "dependencies": {
+    "gh-pages": "^3.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheSwann/Abhor.git"
+  },
+  "author": "Fraser Maclean",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheSwann/Abhor/issues"
+  },
+  "homepage": "https://github.com/TheSwann/Abhor#readme"
+}
